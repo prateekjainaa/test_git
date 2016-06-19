@@ -2,6 +2,11 @@ package mymain;
 
 import vo.Multiply;
 
+/**
+ * Main file for project.
+ * @author ejaprja
+ *
+ */
 public class Executor {
 
 	public static void main(String[] args) {
